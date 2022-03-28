@@ -8,9 +8,9 @@ Refresh-drinks, with a frontend built in React & Redux and a backend built in Dj
 
 **This App uses a Heroku free plan, so I am afraid that it takes time to load the pages.**
 
-Check out [FRONTEND LIVE DEMO](https://frontend-refresh-drinks.herokuapp.com/) here!!
+Check out [FRONTEND LIVE DEMO](https://frontend-refreshdrinks.herokuapp.com/) here!!
 
-Check out [API LIVE DEMO](https://backend-refresh-drinks.herokuapp.com/) here!!
+Check out [API LIVE DEMO](https://backend-refreshdrinks.herokuapp.com/) here!!
 
 ## Tech used
 
@@ -24,7 +24,7 @@ Check out [API LIVE DEMO](https://backend-refresh-drinks.herokuapp.com/) here!!
 1. Git Clone
 
 ```
-https://github.com/tamirug2015/Refresh-drinks.git
+https://github.com/suhel253/Refresh-Drinks.git
 ```
 
 2. Backend setting
